@@ -1,5 +1,5 @@
 {
-  "name": "module-root",
+  "name": "@dword-design/module-root",
   "description": "Get the resolved path the root (directory) of a package installed in node_modules.",
   "version": "0.2.0",
   "homepage": "https://github.com/jonschlinkert/module-root",
@@ -38,5 +38,8 @@
     "mocha": "^10.1.0",
     "output-files": "^2.0.10",
     "with-local-tmp-dir": "^4.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
