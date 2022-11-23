@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/module-root",
   "description": "Get the resolved path the root (directory) of a package installed in node_modules.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/jonschlinkert/module-root",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/module-root",
